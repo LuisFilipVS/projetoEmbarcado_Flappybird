@@ -25,3 +25,6 @@ Um jogo estilo Flappy Bird desenvolvido exclusivamente para a placa BitDogLab. O
 2. Compile e grave o código na BitDogLab utilizando o ambiente de desenvolvimento adequado.
 3. Conecte os componentes corretamente e execute o jogo!
 
+## 🧠 Relatório do projeto
+📖 Confira o relatório de produção do projeto: [Acessar arquivo](https://drive.google.com/file/d/1cOydCiwuGeFaczYLj1q1jTRY8xIhohnF/view?usp=sharing)
+
