@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/flappyBird.uf2'
+elf = 'build/flappyBird.elf'
